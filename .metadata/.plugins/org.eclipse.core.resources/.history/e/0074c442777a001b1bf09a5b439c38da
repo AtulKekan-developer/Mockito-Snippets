@@ -1,0 +1,11 @@
+package com.atul.test_doubles_fake;
+
+import java.time.LocalDate;
+
+public class Book {
+	private String bookId;
+	private String title;
+	private int price;
+	private LocalDate date;
+	
+}	

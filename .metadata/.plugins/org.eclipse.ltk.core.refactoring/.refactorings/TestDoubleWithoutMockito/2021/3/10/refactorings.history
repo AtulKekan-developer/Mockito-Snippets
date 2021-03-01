@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.atul.test_doubles_fake.BookrepositoryImpl&apos; to &apos;BookRepositoryImpl&apos;&#x0D;&#x0A;- Original project: &apos;FakeTestDoubleWithoutMockito&apos;&#x0D;&#x0A;- Original element: &apos;com.atul.test_doubles_fake.BookrepositoryImpl&apos;&#x0D;&#x0A;- Renamed element: &apos;com.atul.test_doubles_fake.BookRepositoryImpl&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BookrepositoryImpl&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.atul.test_doubles_fake{BookrepositoryImpl.java[BookrepositoryImpl" matchStrategy="1" name="BookRepositoryImpl" qualified="false" references="true" similarDeclarations="false" stamp="1614594161245" textual="false" version="1.0"/>
+</session>

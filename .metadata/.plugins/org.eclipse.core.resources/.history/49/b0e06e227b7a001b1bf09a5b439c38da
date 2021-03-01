@@ -1,0 +1,14 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import com.atul.test_doubles_fake.BookRepository;
+
+class FakeTest {
+
+	@Test
+	void testIfAdded() {
+		BookRepository bookRepository = new BookRepositoryImpl();
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.atul.test_doubles_fake;
+
+import java.util.Collection;
+
+public class BookRepositoryImpl implements BookRepository
+{
+
+	@Override
+	public void save(Book book) {
+	}
+
+	@Override
+	public Collection<Book> findAll() {
+		return null;
+	}
+
+}

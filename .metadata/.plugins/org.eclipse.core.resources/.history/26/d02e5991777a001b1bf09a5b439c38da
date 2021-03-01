@@ -1,0 +1,13 @@
+package com.atul.test_doubles_fake;
+
+public class BookService 
+{
+	private BookRepository bookRepository;
+	
+	public void addBook(Book book)
+	{
+		bookRepository.save(book);
+	}
+	
+	
+}

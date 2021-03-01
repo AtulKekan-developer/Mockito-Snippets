@@ -1,0 +1,7 @@
+package com.atul.test_doubles_fake;
+
+public class BookService 
+{
+	private BookRepository bookRepository;
+	
+}
